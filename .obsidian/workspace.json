@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sdasda.md",
+                "file": "algoritmo-logica/Seção 2 - Introdução a programação/Primeiro algoritmo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sdasda"
+              "title": "Primeiro algoritmo"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sdasda.md",
+                "file": "algoritmo-logica/Seção 2 - Introdução a programação/Primeiro algoritmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sdasda"
+              "title": "Backlinks for Primeiro algoritmo"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sdasda.md",
+                "file": "algoritmo-logica/Seção 2 - Introdução a programação/Primeiro algoritmo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sdasda"
+              "title": "Outgoing links from Primeiro algoritmo"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sdasda.md",
+                "file": "algoritmo-logica/Seção 2 - Introdução a programação/Primeiro algoritmo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sdasda"
+              "title": "Outline of Primeiro algoritmo"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "f2a662eda83db374",
   "lastOpenFiles": [
-    "algoritmo-logica/Seção 2 - Introdução a programação/Primeiro algoritmo.md",
     "sdasda.md",
+    "algoritmo-logica/Seção 2 - Introdução a programação/Primeiro algoritmo.md",
     "Untitled.base",
     "algoritmo-logica/Seção 2 - Introdução a programação/Portugol e VisualG.md",
     "algoritmo-logica/Seção 2 - Introdução a programação/Linguagem léxica e sintática.md",

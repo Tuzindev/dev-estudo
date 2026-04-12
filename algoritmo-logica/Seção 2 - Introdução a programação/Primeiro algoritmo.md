@@ -15,5 +15,3 @@ fimalgoritmo
 ## Relacionado a
 - [[Portugol e VisualG]]
 - [[Linguagem léxica e sintática]]
-- jjjj
-- 
