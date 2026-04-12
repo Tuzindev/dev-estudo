@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "447f8d4e8ec75fa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cbce594cdace62d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8920a6d658e3ff6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b525bfb653737deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algoritmo-logica/Seção 2 - Introdução a programação/Programa de computador.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programa de computador"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "249283a482c6a494",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1d4d99864a2758b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a40984ad57b55e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "63e97dca67c675d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06df707d1307c1ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58125ee12229f750",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3f96c0786bef3ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0558b812bada3961",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "algoritmo-logica/Seção 2 - Introdução a programação/Programa de computador.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Programa de computador"
+            }
+          },
+          {
+            "id": "4ce00a443aca66bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "algoritmo-logica/Seção 2 - Introdução a programação/Programa de computador.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Programa de computador"
+            }
+          },
+          {
+            "id": "43bd96e1dbee18a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "53b33edfa514c1c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cf4bc23a18ee986a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "algoritmo-logica/Seção 2 - Introdução a programação/Programa de computador.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Programa de computador"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b525bfb653737deb",
+  "lastOpenFiles": [
+    "algoritmos.md",
+    "algoritmo-logica/Seção 2 - Introdução a programação/Programa de computador.md",
+    "algoritmo-logica/Seção 2 - Introdução a programação/Automação.md",
+    "algoritmo-logica/Seção 2 - Introdução a programação/Algoritmo.md",
+    "algoritmo-logica/Seção 1 - Introducao/01-conteudo-do-curso.pdf",
+    "Untitled.md",
+    "algoritmo-logica/Seção 2 - Introdução a programação",
+    "Untitled",
+    "algoritmo-logica/Seção 1 - Introducao",
+    "algoritmo-logica",
+    "Second Note 1.md",
+    "2026-04-12.md",
+    "cultura vintage.md",
+    "Home Alone.md",
+    "nostalgia.md",
+    "Second Note.md",
+    "First note.md",
+    "Welcome.md"
+  ]
+}
