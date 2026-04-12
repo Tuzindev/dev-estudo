@@ -16,3 +16,8 @@ Ele une o conceito do [[Algoritmo]] com a [[Automação]].
     - Aplicativos;
     - Jogos;
     - Utilitários (anti-vírus, compactador de arquivos)
+## Relacionado a 
+[[Algoritmo]]
+[[Automação]]
+
+

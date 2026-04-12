@@ -13,4 +13,3 @@ Exemplo: Lavar roupa
 9. Retirar as roupas.
 10. Pendurar as roupas.
 
-A partir do algoritmo vem a [[Automação]]
