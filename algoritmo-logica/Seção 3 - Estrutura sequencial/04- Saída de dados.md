@@ -69,6 +69,6 @@ Fimalgoritmo
 |valor:8:2|8 espaços totais e 2 casas decimais|
 
 #### Relacionado a:
-[[Portugol e VisualG]]
-[[3 operações básicas de programação]]
+[[07- Portugol e VisualG]]
+[[03- 3 operações básicas de programação]]
 

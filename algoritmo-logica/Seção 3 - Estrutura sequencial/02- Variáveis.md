@@ -44,5 +44,5 @@ salarioDoFuncionario : inteiro
 ```
 
 ### Relacionado a:
-[[Portugol e VisualG]]
-[[Algoritmo]]
+[[07- Portugol e VisualG]]
+[[01- Algoritmo]]

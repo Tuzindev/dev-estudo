@@ -30,4 +30,4 @@ Fimalgoritmo
 ```
 
 #### Relacionado a:
-[[Portugol e VisualG]]
+[[07- Portugol e VisualG]]

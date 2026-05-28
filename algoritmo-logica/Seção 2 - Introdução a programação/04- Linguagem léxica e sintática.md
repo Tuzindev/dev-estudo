@@ -30,4 +30,4 @@ Verifica se a estrutura da instrução está correta.
 Uma linguagem de programação precisa ter palavras válidas e também uma estrutura válida.
 
 ## Relacionado a
-- [[Compilação e interpretação]]
+- [[06- Compilação e interpretação]]

@@ -17,4 +17,4 @@ Ambiente que executa um código intermediário, como bytecode.
 Não entende diretamente o código-fonte, por isso é necessário um processo de tradução.
 
 ## Relacionado a 
-[[Algoritmo]]
+[[01- Algoritmo]]

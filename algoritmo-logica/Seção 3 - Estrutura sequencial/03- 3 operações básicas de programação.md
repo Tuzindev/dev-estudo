@@ -1,7 +1,7 @@
 Todo programa executa três tipos de operações:
-  - [[Entrada de dados]]
-  - [[Processamento de dados]]
-  - [[Saída de dados]]
+  - [[06- Entrada de dados]]
+  - [[05- Processamento de dados]]
+  - [[04- Saída de dados]]
 #### Entrada de dados
 **É quando o usuário fornece dados ao programa.**
 Exemplo de dispositivo: teclado.

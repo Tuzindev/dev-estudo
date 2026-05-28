@@ -13,5 +13,5 @@ inicio
 fimalgoritmo
 ```
 ## Relacionado a
-- [[Portugol e VisualG]]
-- [[Linguagem léxica e sintática]]
+- [[07- Portugol e VisualG]]
+- [[04- Linguagem léxica e sintática]]

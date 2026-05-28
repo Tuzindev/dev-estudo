@@ -1,3 +1,3 @@
 #### Relacionado a:
-[[Saída de dados]]
-[[Variáveis]]
+[[04- Saída de dados]]
+[[02- Variáveis]]

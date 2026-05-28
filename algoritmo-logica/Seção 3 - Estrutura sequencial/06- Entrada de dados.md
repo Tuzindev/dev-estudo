@@ -31,6 +31,6 @@ Fimalgoritmo
 ```
 
 #### Relacionado a:
-[[Portugol e VisualG]]
-[[3 operações básicas de programação]]
+[[07- Portugol e VisualG]]
+[[03- 3 operações básicas de programação]]
 

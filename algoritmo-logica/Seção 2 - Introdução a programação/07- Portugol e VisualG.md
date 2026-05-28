@@ -14,5 +14,5 @@
 - ajuda a entender lógica antes de ir para uma linguagem real  
   
 ## Relacionado a  
-- [[IDE]]  
-- [[Primeiro algoritmo]]
+- [[05- IDE]]  
+- [[08- Primeiro algoritmo]]

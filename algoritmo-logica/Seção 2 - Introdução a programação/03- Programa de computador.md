@@ -1,5 +1,5 @@
 Programas de computador são algoritmos executados pelo computador. O computador é uma máquina de automatiza a execução dos algoritmos computacionais.
-Ele une o conceito do [[Algoritmo]] com a [[Automação]].
+Ele une o conceito do [[01- Algoritmo]] com a [[02- Automação]].
 
 - Processamentos de dados;
 - Cálculos.
@@ -17,7 +17,7 @@ Ele une o conceito do [[Algoritmo]] com a [[Automação]].
     - Jogos;
     - Utilitários (anti-vírus, compactador de arquivos)
 ## Relacionado a 
-[[Algoritmo]]
-[[Automação]]
+[[01- Algoritmo]]
+[[02- Automação]]
 
 

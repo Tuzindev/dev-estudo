@@ -1,4 +1,4 @@
-Utiliza máquinas para executar algum procedimento de forma automática ou semiautomática. Do exemplo usado no [[Algoritmo]] acima, esses processos podem ser automatizados:
+Utiliza máquinas para executar algum procedimento de forma automática ou semiautomática. Do exemplo usado no [[01- Algoritmo]] acima, esses processos podem ser automatizados:
 
 1. Abrir a máquina de lavar.
 2. Colocar cada produto no devido recipiente .
@@ -9,5 +9,5 @@ Utiliza máquinas para executar algum procedimento de forma automática ou semia
 7. Retirar as roupas.
 8. Pendurar as roupas.
 ## Relacionado a 
-[[Algoritmo]]
-[[Programa de computador]]
+[[01- Algoritmo]]
+[[03- Programa de computador]]
